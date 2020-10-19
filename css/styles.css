@@ -1,0 +1,63 @@
+#primary {
+    width: 100%;
+    height: 100%;
+
+}
+
+#primary #header {
+    width: auto;
+    height: 180px;
+}
+
+#primary #header #h{
+    float: left;
+    width: 33%;
+    height: 100%;
+    background-color: blue;
+}
+
+
+#primary #header #h #direccion{
+    text-align: justify;
+    padding-left: 10px;
+}
+
+.text-negrita{
+    font-weight: bold;
+}
+.brcss{
+    line-height:23px;
+}
+
+
+
+#primary #header #codigo {
+    text-align: center;
+    float: left;
+    width: 33%;
+    height: 100%;
+    background-color: coral;
+}
+
+#primary #header #remito {
+    float: right;
+    width: 33%;
+    height: 100%;
+    background-color: darkgoldenrod;
+}
+
+#primary #destinatario {
+
+    
+}
+
+#primary #observacion {
+
+
+}
+
+#primary #comentarios {
+    border: 1
+}
+
+
