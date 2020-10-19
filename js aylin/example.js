@@ -1,1 +1,0 @@
-console.log ("bienvenido a la página");
